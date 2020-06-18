@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: #17153a;
+  background: #3FBEBC;
 }
 
 #particles-js { 
@@ -11,7 +11,7 @@ body {
     z-index: -10;
     top: 0;
     left: 0;
-	background-color: #17153a; 
+	background-color: #3FBEBC; 
 	background-image: url(""); 
 	background-repeat: no-repeat; 
 	background-size: cover; 
@@ -321,7 +321,7 @@ header, section {
   }
   
   #mainNav .navbar-toggler:hover, #mainNav .navbar-toggler:focus {
-    color: #F0B036;
+    color: #f2a72f;
     border-color: #F0B036;
   }
 
