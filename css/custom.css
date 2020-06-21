@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: #17153a;
+  background: #92CEF6;
 }
 
 #particles-js { 
@@ -11,7 +11,7 @@ body {
     z-index: -10;
     top: 0;
     left: 0;
-	background-color: #17153a; 
+	background-color: #92CEF6; 
 	background-image: url(""); 
 	background-repeat: no-repeat; 
 	background-size: cover; 
@@ -315,7 +315,8 @@ header, section {
   }
 
   #mainNav .navbar-toggler {
-    color: #F0B036;
+    color: #F0B036; 
+    /* F0B036 */
     border: 2px solid #ccc;
     border-radius: 30px;
   }
@@ -466,7 +467,7 @@ p {
 
 
 .orange, .orange-hover {
-	color: #F0B036 !important;
+	color: #FFEA05 !important;
 }
 
 .orange-hover:focus, .orange-hover:hover {
@@ -487,7 +488,7 @@ p {
   font-family: "Title";
   text-align: center;
   opacity: 1;
-  background: url("../img/title-scrolling.png");
+  background: url("../img/title-scrolling4.jpg");
   background-repeat: repeat-x;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
