@@ -1,7 +1,7 @@
 body {
   margin: 0;
   padding: 0;
-  background: #3FBEBC;
+  background: #17153a;
 }
 
 #particles-js { 
@@ -11,7 +11,7 @@ body {
     z-index: -10;
     top: 0;
     left: 0;
-	background-color: #3FBEBC; 
+	background-color: #17153a; 
 	background-image: url(""); 
 	background-repeat: no-repeat; 
 	background-size: cover; 
